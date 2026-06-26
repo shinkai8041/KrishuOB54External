@@ -504,6 +504,7 @@ namespace Krishu_X_External
             Brutalpanel.BringToFront();
             Brutalbutton.FillColor = Color.Red;
             Brutalpanel.Location = PanelLocation;
+            sta.Text = "Use this all at your Riskk";
         }
 
         private void Extrabutton_Click(object sender, EventArgs e)
