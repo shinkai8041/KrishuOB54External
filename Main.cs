@@ -104,7 +104,7 @@ namespace Krishu_X_External
             await LoadPatch("HighJump", "00 00 C8 42 F0 48 2D E9 10 B0 8D E2 01 50 A0 E1 00 40 A0 E1 00 00 55 E3 02 00 00 0A BC 70 D5 E1", "00 00 7A 43 F0 48 2D E9 10 B0 8D E2 01 50 A0 E1 00 40 A0 E1 00 00 55 E3 02 00 00 0A BC 70 D5 E1");
             await LoadPatch("GuestReset", "10 40 2D E9 D0 40 9F E5 04 40 8F E0 00 00 D4 E5 00 00 50 E3 04 00 00 1A C0 00 9F E5 00 00 9F E7 A9", "01 00 A0 E3 1E FF 2F E1");
 
-            sta.Text = "Patches Loaded!";
+            sta.Text = "Hacks Loaded!";
             sta.ForeColor = Color.Green;
         }
 
